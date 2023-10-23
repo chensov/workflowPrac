@@ -1,0 +1,22 @@
+dateModified: 1698064012
+email:
+  fromEmail: senche.dev@gmail.com
+  fromName: workflowPrac
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    3abc2d17-02e8-48f5-b1fc-a2c6a0463098: Common # Common
+    6da37825-9ebd-4180-9c0a-665141c54672: workflowPrac # workflowPrac
+    e950deb0-4914-4724-9eb2-fb0a2f87815e: workflowPrac # workflowPrac
+system:
+  edition: solo
+  live: true
+  name: workflowPrac
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
